@@ -107,5 +107,5 @@ This file contains details about the products available on the platform.
 
 ## Schema Diagram
 
-![E-commerce Data](/image)
+![E-commerce Data](/image.png)
 
